@@ -59,4 +59,4 @@ The Course Contents for Certified Appsec Practitioner are as follows:
 
 
 
-**We will be following each of the above topics and studying them in detail.**
+**   %27 <3 **
