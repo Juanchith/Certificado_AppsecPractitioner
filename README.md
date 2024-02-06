@@ -4,9 +4,8 @@
 
 
 
-Since the **SecOps Group** came up with a voucher that offered free certification to **Certified Appsec Practitioner** I will be creating notes here. I will be working on the Certified Appsec Practitioner.
 
-The Course Contents for Certified Appsec Practitioner are as follows:
+Temario AppSec:
 
 1. [Input Validation Mechanisms](input-validation-mechanisms.md)
 
